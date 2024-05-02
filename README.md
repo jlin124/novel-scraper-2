@@ -8,7 +8,7 @@ pip install selenium
 pip install tqdm
 ```
 Features of this script as of 5/2/24:
-- Search for novels
+- Search for novels within the site
 - Save all novel chapter content as Text Files into it's own folder
 - Saves the novel image as well
 
